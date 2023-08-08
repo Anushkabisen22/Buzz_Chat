@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&family=Wix+Madefor+Display&family=Work+Sans&display=swap');
+.App{
+    height: 100vh;
+    display:flex;
+
+    background-color: #001C30;
+    background-image: url("https://www.transparenttextures.com/patterns/fake-brick.png");
+}
+*{
+    
+}
