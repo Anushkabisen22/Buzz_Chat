@@ -19,20 +19,13 @@
 
 **Login or Signup with required details.**:
 
-![Device](logo/device.jpeg)
+![Device](photos/p1.jpeg)
 
 **View message your Chat history.**:
 
-![Device](logo/entry.png)
-
-![Device](logo/login.png)
-
-![Device](logo/student.png)
+![Device](photos/p2.png)
 
 **Make group and look for profile of your friends.**:  
-
-![Device](logo/faculty.png)
-
 
 ## Technologies Used
 
