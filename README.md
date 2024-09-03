@@ -19,7 +19,7 @@
 
 **Login or Signup with required details.**:
 
-![Device](photos/p1.jpeg)
+![Device](photos/p1.png)
 
 **View message your Chat history.**:
 
